@@ -1,0 +1,10 @@
+12.10 - WhatsApp - formiranje grupe i clanova
+20.10 - sastanak s asistentom i demonstratorom
+      - upoznavanje s temom projekta 
+26.10. - raspodjela poslova po članovima tima
+       - detaljna razrada teme 
+5.11 - komentari dosadašnjeg rada
+     - daljnja podjela rada
+10.11. - dogovor za popravak dokumentacije
+       - dizajn stranice, komunikacija backenda i frontenda, baza podataka
+
